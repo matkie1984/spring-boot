@@ -21,7 +21,9 @@ import java.util.Date;
 public class Message {
 
 	private String message;
+
 	private String author;
+
 	private String nothing;
 
 	private long time = new Date().getTime();
